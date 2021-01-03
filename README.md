@@ -1,58 +1,45 @@
-# MIUI OTA 更新地址
+## MIUI OTA UPDATE
 
-
-
-本项目地址均为个人收集，提供给大家查询获取历史版本。
-
-------
-
-- 开发版 Develop    
-
-- 稳定版 Stable
-
-  > 无特殊情况，周四内测版即为周五开发版
-
-------
-|        机型        |                            开发版                            |                            稳定版                            |
-| :----------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|   小米10   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米10.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米10.md)          |
-|   小米10Pro   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米10Pro.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米10Pro.md)          |
-|   小米10 Ultra   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米10%20Ultra.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米10%20Ultra.md)          |
-|   小米10青春版   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米10青春版.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米10青春版.md)          |
-|   小米6   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米6.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米6.md)          |
-|   小米6X   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米6X.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米6X.md)          |
-|   小米8   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米8.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米8.md)          |
-|   小米8SE   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米8SE.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米8SE.md)          |
-|   小米8屏幕指纹版   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米8屏幕指纹版.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米8屏幕指纹版.md)          |
-|   小米8探索版   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米8探索版.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米8探索版.md)          |
-|   小米8青春版   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米8青春版.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米8青春版.md)          |
-|   小米9   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米9.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米9.md)          |
-|   小米9Pro 5G   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米9Pro%205G.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米9Pro%205G.md)          |
-|   小米9SE   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米9SE.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米9SE.md)          |
-|   小米CC 9   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米CC%209.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米CC%209.md)          |
-|   小米CC 9 Pro   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米CC%209%20Pro.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米CC%209%20Pro.md)          |
-|   小米CC 9e   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米CC%209e.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米CC%209e.md)          |
-|   小米CC 9美图定制版   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米CC%209美图定制版.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米CC%209美图定制版.md)          |
-|   小米MIX2   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米MIX2.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米MIX2.md)          |
-|   小米MIX2S   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米MIX2S.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米MIX2S.md)          |
-|   小米MIX3   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米MIX3.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米MIX3.md)          |
-|   小米Note3   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米Note3.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米Note3.md)          |
-|   Redmi K20   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20K20.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20K20.md)          |
-|   Redmi K20 Pro   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20K20%20Pro.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20K20%20Pro.md)          |
-|   Redmi K30   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20K30.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20K30.md)          |
-|   Redmi K30S   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20K30S.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20K30S.md)          |
-|   Redmi K30 5G   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20K30%205G.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20K30%205G.md)          |
-|   Redmi K30Pro   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20K30Pro.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20K30Pro.md)          |
-|   Redmi K30 Ultra  | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20K30%20Ultra.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20K30%20Ultra.md)          |
-|   Redmi Note 5   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20Note%205.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20Note%205.md)          |
-|   Redmi Note7   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20Note7.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20Note7.md)          |
-|   Redmi Note7 Pro   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20Note7%20Pro.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20Note7%20Pro.md)          |
-|   Redmi Note8   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20Note8.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20Note8.md)          |
-|   Redmi Note8 Pro   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20Note8%20Pro.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20Note8%20Pro.md)          |
-
-
-
+ ---- 
+|机型|开发版|稳定版|
+| :----: | :----: | :----: |
+|小米11| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米11.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米11.md)|
+|小米10| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米10.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米10.md)|
+|小米10Pro| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米10Pro.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米10Pro.md)|
+|小米10 Ultra| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米10 Ultra.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米10 Ultra.md)|
+|小米10青春版| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米10青春版.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米10青春版.md)|
+|小米MIX3| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米MIX3.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米MIX3.md)|
+|小米MIX2S| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米MIX2S.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米MIX2S.md)|
+|小米9| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米9.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米9.md)|
+|小米9SE| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米9SE.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米9SE.md)|
+|小米9Pro 5G| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米9Pro 5G.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米9Pro 5G.md)|
+|小米CC 9| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米CC 9.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米CC 9.md)|
+|小米CC 9 Pro| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米CC 9 Pro.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米CC 9 Pro.md)|
+|小米CC 9e| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米CC 9e.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米CC 9e.md)|
+|小米CC 9美图定制版| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米CC 9美图定制版.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米CC 9美图定制版.md)|
+|小米8| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米8.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米8.md)|
+|小米8探索版| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米8探索版.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米8探索版.md)|
+|小米8屏幕指纹版| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米8屏幕指纹版.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米8屏幕指纹版.md)|
+|小米8青春版| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米8青春版.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米8青春版.md)|
+|小米8SE| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米8SE.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米8SE.md)|
+|小米MIX2| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米MIX2.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米MIX2.md)|
+|小米6| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米6.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米6.md)|
+|小米6X| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米6X.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米6X.md)|
+|小米Note3| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米Note3.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米Note3.md)|
+|Redmi K30Pro| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi K30Pro.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi K30Pro.md)|
+|Redmi K30 5G| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi K30 5G.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi K30 5G.md)|
+|Redmi K30| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi K30.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi K30.md)|
+|Redmi K30 Ultra| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi K30 Ultra.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi K30 Ultra.md)|
+|Redmi K30S| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi K30S.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi K30S.md)|
+|Redmi K20| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi K20.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi K20.md)|
+|Redmi K20 Pro| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi K20 Pro.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi K20 Pro.md)|
+|Redmi Note 5| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi Note 5.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi Note 5.md)|
+|Redmi Note8| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi Note8.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi Note8.md)|
+|Redmi Note8 Pro| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi Note8 Pro.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi Note8 Pro.md)|
+|Redmi Note7| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi Note7.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi Note7.md)|
+|Redmi Note7 Pro| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi Note7 Pro.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi Note7 Pro.md)|
+|Redmi 10X 5G| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi 10X 5G.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi 10X 5G.md)|
+|Redmi 10X Pro| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi 10X Pro.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi 10X Pro.md)|
+|Redmi 10X| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi 10X.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi 10X.md)|
+ ---- 
 此系统仅供个人学习、研究之用,请勿用于商业用途。
-
-
-
